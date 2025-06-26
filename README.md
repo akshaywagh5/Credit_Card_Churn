@@ -48,5 +48,12 @@ The dataset contains customer information for a credit card company, including:
 
 ## 📷 Screenshots
 
-_Add screenshots of your dashboard visuals here once uploaded._
+### 1. Attrition Analysis
+![Attrition Analysis](images/Attrition%20Analysis.png)
+
+### 2. Customer Overview Analysis
+![Customer Overview](images/Customer%20Overview%20Analysis.png)
+
+### 3. Spending & Credit Behavior
+![Spending & Credit Behavior](images/Spending%20%26%20Credit%20Behavior.png)
 
